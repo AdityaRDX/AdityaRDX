@@ -22,6 +22,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AdityaRDX&icon=10&color=6)](https://visitcount.itsvg.in)
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31trihg6tcu2gy2we4funepuyisu&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **AdityaRDX/AdityaRDX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
